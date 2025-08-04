@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_demo_app",
+  "version": "1.0.0",
+  "description": "A simple Node.js app to test CI/CD pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "CHITRANSH JANGID",
+  "license": "ISC"
+}
+
